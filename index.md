@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Emequm
+title: Emekum
 lang: fr
 ---
 
@@ -20,3 +20,4 @@ lang: fr
     {% endif %}
   {% endfor %}
 </ul>
+
