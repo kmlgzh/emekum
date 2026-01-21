@@ -1,4 +1,4 @@
-title: "Emequm"
+title: "Emekum"
 description: "Sagesse et savoir quotidien"
 baseurl: "/emekum"
 url: "https://kmlgzh.github.io"
@@ -6,4 +6,5 @@ theme: minima
 markdown: kramdown
 plugins:
   - jekyll-feed
+
 
